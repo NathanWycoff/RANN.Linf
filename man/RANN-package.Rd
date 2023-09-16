@@ -5,9 +5,6 @@
 \alias{RANN-package}
 \alias{RANN}
 \title{Wrapper for Arya and Mount's Approximate Nearest Neighbours (ANN) C++ library}
-\description{
-Wrapper for Arya and Mount's Approximate Nearest Neighbours (ANN) C++ library
-}
 \seealso{
 \code{\link{nn2}}
 }
